@@ -1,1 +1,1 @@
-## Testando sistem de troca de figurinha da copa
+## Testando sistema de troca de figurinha da copa
